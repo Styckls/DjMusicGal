@@ -1,0 +1,58 @@
+/* These were present in the tutorial */
+body {
+	background: white url('images/background.jpg');
+}
+
+.navbar {
+	border-radius: 0;
+}
+
+.navbar-brand {
+	font-family: 'Satisfy', cursive;
+}
+
+
+/* The rest of these were added from the repo. */
+ul.errorlist {
+	padding-left: 0px;
+}
+
+ul.errorlist > li {
+	list-style:none;
+}
+
+.glyphicon-star {
+	color: #CCCCCC;
+}
+
+.glyphicon-star.active {
+	color: #FDB230;
+}
+
+
+/* My custom styling */
+.album-info {
+	text-align: center;
+}
+
+.search-album-cover {
+	height:120px; 
+	width:120px;
+}
+
+.caption {
+	text-align: center;
+}
+
+h2 {
+	font-weight: bold;
+	font-size: 18px;
+}
+
+h4 {
+	font-size: 16px;
+}
+
+thead {
+	font-weight: bold;
+}
